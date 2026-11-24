@@ -32,3 +32,6 @@ Acá vas a trabajar con un proyecto de gestión inventado: listados de clientes,
 
 9. **Leer los dos `appsettings` y explicar con tus palabras qué es producción y qué es QA, y por qué tocar QA no afecta a ningún cliente.**
    Abrí `config/appsettings.QA.json` y `config/appsettings.Produccion.json`. Compará servidores y nombres de base (`gestion_qa` vs `gestion_prod`) y explicá con tus palabras qué es cada ambiente y por qué probar o tocar `QA` no impacta en los clientes reales.
+
+---
+*Nota en `dev`: recordá probar los cambios en QA antes de llevarlos a `master`.*
