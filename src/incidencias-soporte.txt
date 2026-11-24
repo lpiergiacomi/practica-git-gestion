@@ -2,3 +2,4 @@ Protocolo rápido de soporte:
 1. Reproducir el caso en QA usando la base gestion_qa.
 2. Nunca editar datos directamente en gestion_prod sin respaldo y aprobación.
 3. Documentar el ticket y el ID del cliente afectado.
+4. Avisar en el canal del equipo cuando el fix quede listo para mergear.
