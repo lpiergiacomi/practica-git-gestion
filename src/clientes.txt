@@ -3,3 +3,4 @@ ID | Cliente | Estado | Plan
 002 | Librería El Papel | Activo - Revisión soporte | Estándar
 003 | Ferretería Norte | Activo | Pro
 004 | Panadería La Espiga | Activo | Básico
+005 | Dietética Verde Vida | Activo | Pro
