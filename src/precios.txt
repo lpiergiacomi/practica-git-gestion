@@ -1,4 +1,4 @@
 SKU | Producto | Precio_ARS
-P-100 | Plan Mensual Básico | 12345
+P-100 | Plan Mensual Básico | jsjsjs
 P-200 | Plan Mensual Estándar | 32500
 P-300 | Plan Mensual Pro | 52000
