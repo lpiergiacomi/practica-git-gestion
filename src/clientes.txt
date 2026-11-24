@@ -1,0 +1,4 @@
+ID | Cliente | Estado | Plan
+001 | Almacén Don Tito | Activo | Básico
+002 | Librería El Papel | Activo | Estándar
+003 | Ferretería Norte | Activo | Pro
